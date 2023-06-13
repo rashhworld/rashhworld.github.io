@@ -1,7 +1,5 @@
 # Welcome to RashhWorld
 
-Looking for outstanding web services? Offering tailored solutions for static, dynamic, and e-commerce websites, along with tech support and domain & hosting solutions.
-
 ## Services Offering
 
 - Web Design
