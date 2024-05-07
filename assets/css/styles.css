@@ -120,6 +120,7 @@ a.dotted-link:hover {
 }
 
 .header .btn {
+  margin-top: 30px;
   font-weight: bold;
 }
 
@@ -795,7 +796,6 @@ body[data-theme="dark"] .text-muted {
     text-align: center;
   }
   .header .btn {
-    margin-top: 30px;
     float: none !important;
   }
   .project-image {
